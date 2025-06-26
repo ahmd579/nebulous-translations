@@ -2,7 +2,7 @@
     <string name="Players">"Spelare"</string>
     <string name="Control_">"Kontrollera:"</string>
     <string name="CLOSE">"Stäng"</string>
-    <string name="Stick_Size_">"Stickstorlek:"</string>
+    <string name="Stick_Size_">"Spakstorlek"</string>
     <string name="Stick_Margin_">"Stickmarginal:"</string>
     <string name="Button_Size_">"Knappstorlek:"</string>
     <string name="Button_Margin_">"Knappmarginal:"</string>
@@ -13,7 +13,7 @@
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Spelläge:"</string>
     <string name="Show_Names">"Visa namn"</string>
-    <string name="Show_Avatars">"Visa skins"</string>
+    <string name="Show_Avatars">"Visa avatarer"</string>
     <string name="PLAY">"Spela"</string>
     <string name="OPTIONS">"Alternativ"</string>
 
@@ -56,7 +56,7 @@
 
     <string name="SERVER">"Server"</string>
     <string name="Joining_game_in_">"Ansluter om "</string>
-    <string name="Game_Full">"Match full"</string>
+    <string name="Game_Full">"Matchen är full"</string>
     <string name="US_East">"Östra USA"</string>
     <string name="US_West">"Västra USA"</string>
     <string name="Europe">"Europa"</string>
@@ -66,7 +66,7 @@
     <string name="SINGLE_PLAYER">"Enspelarläge"</string>
     <string name="Background_">"Bakgrund:"</string>
     <string name="Difficulty_">"Svårighetsgrad:"</string>
-    <string name="Delay_Disconnect">"Fördröj Frånkoppling"</string>
+    <string name="Delay_Disconnect">"Fördröjd frånkoppling"</string>
 
     <string name="Max_Players">"Max antal spelare"</string>
     <string name="Min_Players">"Minsta antal Spelare"</string>
